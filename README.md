@@ -1,5 +1,6 @@
 
 # MERN PROJECT
+[![Demo Video](https://github.com/Techbarsha/Certificate-Verification-System/blob/main/Home-image-CTRlkSgl.png)](https://youtu.be/hVdWFfRJVCM)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -62,8 +63,6 @@ displays the certificate based on the retrieved data.
 <b>PDF Creation:</b> Integrate a library such as <i>pdfkit</i> or <i>jsPDF</i> to generate and
 download certificates in PDF format. Ensure that the PDF includes all relevant
 details and adheres to the defined format.
-
-[![Demo Video](https://github.com/Techbarsha/Certificate-Verification-System/blob/main/Home-image-CTRlkSgl.png)](https://youtu.be/hVdWFfRJVCM)
 
 
 <b>4. Validation & Security:</b> <br>
