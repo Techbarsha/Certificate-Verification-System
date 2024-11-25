@@ -63,7 +63,7 @@ displays the certificate based on the retrieved data.
 download certificates in PDF format. Ensure that the PDF includes all relevant
 details and adheres to the defined format.
 
-[DEMO](https://github.com/Techbarsha/Certificate-Verification-System/blob/main/certificate%20verification.mp4)
+![DEMO] (https://github.com/Techbarsha/Certificate-Verification-System/blob/main/certificate%20verification.mp4)
 
 <b>4. Validation & Security:</b> <br>
 <b>Data Validation:</b> Implement validation checks on both the Excel data during
